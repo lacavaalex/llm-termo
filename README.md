@@ -24,6 +24,8 @@ As 80 partidas revelaram assimetrias severas na forma como as IAs processam regr
 * **Limitações Linguísticas:** Palavras com acentuação ou terminações inusitadas, especificamente "quiçá" e "banzo", representaram os maiores desafios ortográficos, resultando em 0% de acerto entre todos os modelos testados.
 * **Eficiência Específica:** O DeepSeek-V4.1-Flash obteve a pior taxa de vitórias globais (15%), mas apresentou a maior agilidade nas resoluções bem-sucedidas, finalizando as partidas ganhas em uma média de apenas 3,33 tentativas.
 
+> 📄 **Acesse o relatório completo:** Para ver a análise detalhada por IA, tabelas de desempenho e inferências completas, leia o [Relatório do Experimento 1](reports/RELATORIO_EXPERIMENTO_1.md).
+
 ## Trabalhos Relacionados
 
 Embora o design inicial, os *sets* e a execução deste experimento tenham sido desenvolvidos de forma independente antes do meu contato com outras literaturas na área, recomendo fortemente a consulta ao [WordleBench](https://github.com/abronte/wordlebench). Trata-se de um *benchmark* focado no idioma inglês que aborda esse mesmo problema de forma extremamente completa e profissional, sendo um excelente ponto de partida para quem deseja se aprofundar academicamente no uso de jogos de palavras para testar capacidades cognitivas em LLMs.
